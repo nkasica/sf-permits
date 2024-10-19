@@ -11,7 +11,7 @@
  
 ## Future Goals
 * Machine Learning
- * Make predictions on future data, particularly the [FTA's 2023 Dataset](https://www.transit.dot.gov/ntd/data-product/2023-annual-database-service)
+  * Make predictions on future data, particularly the [FTA's 2023 Dataset](https://www.transit.dot.gov/ntd/data-product/2023-annual-database-service)
 * Develop a better understanding of transportation habits in the United States
 
 ### Getting Started
