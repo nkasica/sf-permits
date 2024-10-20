@@ -3,7 +3,7 @@
 
 ## Current Endeavors
 * Preprocessing
-  * [ ] Loading our dataset
+  * [X] Loading our dataset
   * [ ] Initial visual inspection of data
   * [ ] Cleansing
   * [ ] Statistical analysis
